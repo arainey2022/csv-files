@@ -1,0 +1,35 @@
+prompt,completion
+What is &facts?,"&facts is an insights platform to help growing eCommerce brands make better product decisions.
+
+Currently, objectively analysing what is happening in the market is near impossible. Our always-on platform can evaluate the market to feed brands intelligent insights and recommendations within minutes."
+What is the vision for &facts?,"We have the opportunity to be the category leader for insights for eCommerce and consumer brands within the next couple of years. 
+
+There are over 10m eCommerce brands who have a need for our platform - with this market also growing 50% YoY. Our target market is worth over £80bn, with many adjacent use cases in technology, travel and financial services brands."
+What is the problem &facts solves?,"- The eCommerce landscape is getting more competitive. Brands need to understand the wider market to launch successful products, but their existing data only tells them about their current customers.
+- Objectively analysing what is happening in the wider market is really difficult. External data is segregated, unstructured or hidden behind APIs. This means manual analysis is slow, cumbersome and bias-prone, and existing data tools are complex.
+- Brands make guesses or use trial-and-error in absence of high-quality insights, and as a result, struggle to grow their business."
+What is &facts' competitive advantage?,"- We cut the process of finding the right insights from days/weeks to just minutes
+- Market research currently is a very reactive and manual process. We’re changing this to become proactive and automated.
+- The biggest challenge brand owners face is ‘knowing’ what is happening, and with consumer behaviour changing rapidly - this becomes very difficult. As an always-on platform, &facts is constantly analysing and evaluating the market for changes."
+What is transformational about what &facts is doing?,"We’re automating the whole data stack for eCommerce brands. We’re not only a full-stack data platform, we also integrate valuable external data to help brands with their blind spots and then provide brands with intelligent insights and recommendations based on their market positioning."
+What do small brands use today instead of &facts?,"For small and growing brands, their current insights stack revolves around internal data tools such as Google Analytics, Mixpanel and Hotjar. 
+
+Their market research is typically manual through reading articles, news, publications or free industry reports. 
+
+For customer insights, they’ll use survey tools such as SurveyMonkey or Typeform. We have seen brands spend weeks/months promoting surveys and offering incentives to gather insights. They struggle to obtain useable insights in a meaningful way. Many then resort to using Market Research consultants at a cost of up to £20k."
+What do large brands use today instead of &facts?,"For larger brands, their data and insights stack can include tools like Alteryx, Looker, Y42 and Adverity. They will also use customer insights platforms like Attest and GWI. 
+
+We’re typically seeing brands set up internal Customer Insights teams once they reach ~£15m turnover, or raise ~£10m.  
+
+Typical market research solutions like Nielsen, Kantar and Mintel are typically used by Enterprise-level brands. 80% of the Market Research industry spend comes from businesses with 1,000+ employees."
+Who are &facts' competitors?,"1. Attest - Consumer Insights platform - recently raised $60m Series B. They focus on consumer polling (reactive - ask a question > get an answer). Asking the right questions is a skill, hence their customer base is predominantly professional ‘Insight Managers’. 
+*We're providing proactive insights that can be used by anybody regardless of skills - as we're developing the intelligence into our platform instead.*
+2. Mintel - Market Research Reports. Generic industry reports (e.g. whole of Beauty industry), where data can be months old by the time it is published and very hard to digest hundreds of pages of text.
+3. GWI - A library of consumer polls. They measure certain topics and markets on an on-going basis. Doesn't provide actionable insights for the brand, as surveys are usually industry-generic. Also, finding any answer is subject to GWI having research on that specific topic previously."
+How is &facts different to Google Trends,Google Search Data (also basis of Google Trends) is a key data source in the MVP. The purpose of the MVP is to illustrate how much insight can be extracted from under-utilised data sources when put through an intelligent model. 
+What data sources does &facts use?,"We see 4 main streams of data that will be used to deliver insights 
+
+1. Social data (e.g. *social media*) : This data will provide indications of changing social and consumer behaviours.
+2. Commerce data (e.g. *Shopify, Google*) : This data is more closely aligned with purchase intent through Google Search Data or Amazon data. It also includes actual purchase data (first-party data through Shopify, WooCommerce and Stripe integrations) as well as external consumer transactional data procured through specialist providers. 
+3. Economic data (e.g. *ONS, BoE, HMRC*) - This will provide an economic outlook to understand the impact on different sectors and industries, and also be utilised for understanding consumer behaviour (e.g. savings at an all-time high currently). 
+4. Proprietary data (e.g. mappings, self generate data) - These are unique internally created datasets that allow us to unlock value from external data sets, provide direct value to our user base, and hold the key to creating our unique data pipelines."
